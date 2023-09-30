@@ -1,4 +1,4 @@
-server: 
+server_: 
   port: 8081
 info:
   name: yyy
